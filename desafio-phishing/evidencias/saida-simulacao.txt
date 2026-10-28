@@ -1,0 +1,10 @@
+SIMULAÇÃO DIDÁTICA OFFLINE — DADOS FICTÍCIOS
+Nenhum serviço foi acessado; nenhum valor de senha foi utilizado.
+
+Cenário | Destino | Envio | Exposição potencial
+Destino esperado | https://portal.example/login | sim | não
+Destino diferente | https://acesso.example/login | sim | sim
+Desistência | https://acesso.example/login | não | não
+
+Verificação: 3 cenários validados.
+Limite: modelo conceitual; não executa o laboratório Kali/SET.
