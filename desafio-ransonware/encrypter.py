@@ -2,7 +2,7 @@
 import os
 from cryptography.hazmat.primitives.ciphers.aead import AESGCM
 from config import CIFRADO, KEY, MAGIC, NONCE_SIZE, ORIGINAL
-
+#AES-GCM detecta alteracoes no conteudo
 
 def main():
     if ORIGINAL.is_symlink() or CIFRADO.is_symlink():
