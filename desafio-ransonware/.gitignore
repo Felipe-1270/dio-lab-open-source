@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+laboratorio/*.aes
+laboratorio/teste.recuperado.txt
