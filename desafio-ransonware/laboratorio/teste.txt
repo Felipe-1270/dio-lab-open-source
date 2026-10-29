@@ -1,2 +1,0 @@
-Arquivo fictício do laboratório de cibersegurança da DIO.
-Este conteúdo é usado para verificar criptografia e recuperação sem perda de dados.
